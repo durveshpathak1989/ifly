@@ -1,5 +1,9 @@
 # Test Quad iFly / FlySky iBUS Library
 
+## Explain It Simply
+
+This module listens to the radio receiver. It turns your transmitter sticks and switches into numbers the flight controller can understand.
+
 This library reads FlySky FS-iA6B iBUS receiver channels over ESP32 UART2.
 
 ## Pin Map

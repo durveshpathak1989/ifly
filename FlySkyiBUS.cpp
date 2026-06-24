@@ -6,7 +6,7 @@
  */
 
 #include "FlySkyiBUS.h"
-#include "DebugConfig.h"
+#include "../DebugConfig/DebugConfig.h"
 
 // ─────────────────────────────────────────────────────────────
 //  Singleton
