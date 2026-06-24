@@ -1,3 +1,10 @@
+/*
+ * Name: FlySkyiBUS.cpp
+ * Use: Implementation of the FlySky iBUS receiver parser and RC command data.
+ * Version: 4.0.0
+ * Created by: Durvesh Pathak dp676@cornell.edu
+ */
+
 /**
  * ============================================================
  *  FlySkyiBUS.cpp — FlySky FS-iA6B iBUS Receiver Driver

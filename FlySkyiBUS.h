@@ -1,3 +1,10 @@
+/*
+ * Name: FlySkyiBUS.h
+ * Use: Declaration for the FlySky iBUS receiver parser and RC command data.
+ * Version: 4.0.0
+ * Created by: Durvesh Pathak dp676@cornell.edu
+ */
+
 /**
  * ============================================================
  *  FlySkyiBUS.h  —  FlySky FS-iA6B iBUS Receiver Driver
